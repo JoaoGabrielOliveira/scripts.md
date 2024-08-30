@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "940743fe8d3ba1f6",
+        "id": "73c274b840311414",
         "type": "tabs",
         "children": [
           {
-            "id": "720cb553cae0b321",
+            "id": "ad29dcc3977e7832",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "4a20ba1b6f201beb",
+            "id": "3afc8e26de9a2ddb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Try.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Try.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Try.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Try.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -158,12 +158,14 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "4a20ba1b6f201beb",
+  "active": "3afc8e26de9a2ddb",
   "lastOpenFiles": [
     "Welcome.md",
+    "Readme.md",
     "Try.md"
   ]
 }
